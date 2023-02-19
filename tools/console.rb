@@ -9,7 +9,7 @@ end
 ### Author class initialization test
 sylvia = Author.new("Sylvia")
 taner = Author.new("Taner")
-mongina = Author.new("Monngina")
+mongina = Author.new("Mongina")
 
 ### Magazine class initialization test
 new_york_times = Magazine.new("New York Times", "News")
