@@ -116,3 +116,11 @@ Some of the methods listed are provided to you in the starter code. You should c
   - Returns an array strings of the titles of all articles written for that magazine
 - `Magazine#contributing_authors`
   - Returns an array of authors who have written more than 2 articles for the magazine
+
+## Contact Information
+   Email:sylvia.bosire@student.moringaschool.com
+
+## [License](LICENSE)
+   
+MIT License
+Copyright (c) 2022 Sylvia Bosire.
