@@ -29,8 +29,11 @@ To get started,
 * cd into Articles-Without-AR-Code-Challenge then open vscode by running code . on the terminal
 * run `bundle install` while inside of this directory.
 * Run `ruby tools/console.rb` on the terminal to interact with the app.
+* You should be able to see something like `this` 
+![image](https://user-images.githubusercontent.com/117803357/220838822-091b5e3d-0abc-4c1f-be98-c7bdce0282b0.png)
+
 * Once the pry prompt type `article1`
-*
+
 
 Build out all of the methods listed in the deliverables. The methods are listed in a suggested order, but you can feel free to tackle the ones you think are easiest. Be careful: some of the later methods rely on earlier ones.
 
