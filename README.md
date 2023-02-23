@@ -24,7 +24,13 @@ For our purposes, an `Author` has many `Article`s, a `Magazine` has many `Articl
 
 ## Instructions
 
-To get started, run `bundle install` while inside of this directory.
+To get started, 
+* clone this repository on your local machine by clicking on this link  https://github.com/SylviaMongina/Articles-Without-AR-Code-Challenge.git
+* cd into Articles-Without-AR-Code-Challenge then open vscode by running code . on the terminal
+* run `bundle install` while inside of this directory.
+* Run ruby tools/console.rb on the terminal to interact with the app.
+* Once the pry prompt type article1
+*
 
 Build out all of the methods listed in the deliverables. The methods are listed in a suggested order, but you can feel free to tackle the ones you think are easiest. Be careful: some of the later methods rely on earlier ones.
 
